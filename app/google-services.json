@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281181995086",
+    "firebase_url": "https://rapid-pottery-275516.firebaseio.com",
+    "project_id": "rapid-pottery-275516",
+    "storage_bucket": "rapid-pottery-275516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281181995086:android:a3553b4be13f6ca8f2831f",
+        "android_client_info": {
+          "package_name": "com.example.tp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281181995086-7ste5rtqv5hfm08cinqrm5sev8ldbal7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMRKhM-OZKnORTf54c1qdvod2qILq7Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281181995086-7ste5rtqv5hfm08cinqrm5sev8ldbal7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
